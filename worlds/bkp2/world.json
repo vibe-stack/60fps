@@ -1,0 +1,2166 @@
+{
+  "format": "xracer-world",
+  "version": 1,
+  "name": "Untitled World",
+  "units": "meters",
+  "createdAt": 1780182641224,
+  "terrain": {
+    "cellsX": 6,
+    "cellsZ": 6,
+    "cellSizeMeters": 250,
+    "heightResolutionPerCell": 65,
+    "lodDistances": [
+      875,
+      1750,
+      3500,
+      7000,
+      14000,
+      28000,
+      1000000000
+    ],
+    "unloadDistance": 8000,
+    "physicsLoadDistance": 562.5,
+    "cells": [
+      {
+        "id": "cell_0_0",
+        "ix": 0,
+        "iz": 0,
+        "bounds": {
+          "minX": -750,
+          "minZ": -750,
+          "maxX": -500,
+          "maxZ": -500
+        },
+        "center": {
+          "x": -625,
+          "y": 99.50009655382506,
+          "z": -625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/0-0/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_1_0",
+        "ix": 1,
+        "iz": 0,
+        "bounds": {
+          "minX": -500,
+          "minZ": -750,
+          "maxX": -250,
+          "maxZ": -500
+        },
+        "center": {
+          "x": -375,
+          "y": 49.74930042469995,
+          "z": -625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/1-0/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_2_0",
+        "ix": 2,
+        "iz": 0,
+        "bounds": {
+          "minX": -250,
+          "minZ": -750,
+          "maxX": 0,
+          "maxZ": -500
+        },
+        "center": {
+          "x": -125,
+          "y": 69.18262588455832,
+          "z": -625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/2-0/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_3_0",
+        "ix": 3,
+        "iz": 0,
+        "bounds": {
+          "minX": 0,
+          "minZ": -750,
+          "maxX": 250,
+          "maxZ": -500
+        },
+        "center": {
+          "x": 125,
+          "y": 60.71022304241474,
+          "z": -625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/3-0/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_4_0",
+        "ix": 4,
+        "iz": 0,
+        "bounds": {
+          "minX": 250,
+          "minZ": -750,
+          "maxX": 500,
+          "maxZ": -500
+        },
+        "center": {
+          "x": 375,
+          "y": 76.59395921334712,
+          "z": -625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/4-0/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_5_0",
+        "ix": 5,
+        "iz": 0,
+        "bounds": {
+          "minX": 500,
+          "minZ": -750,
+          "maxX": 750,
+          "maxZ": -500
+        },
+        "center": {
+          "x": 625,
+          "y": 65.91076501764489,
+          "z": -625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/5-0/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_0_1",
+        "ix": 0,
+        "iz": 1,
+        "bounds": {
+          "minX": -750,
+          "minZ": -500,
+          "maxX": -500,
+          "maxZ": -250
+        },
+        "center": {
+          "x": -625,
+          "y": 28.25102159845406,
+          "z": -375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/0-1/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_1_1",
+        "ix": 1,
+        "iz": 1,
+        "bounds": {
+          "minX": -500,
+          "minZ": -500,
+          "maxX": -250,
+          "maxZ": -250
+        },
+        "center": {
+          "x": -375,
+          "y": 12.825948524002659,
+          "z": -375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/1-1/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_2_1",
+        "ix": 2,
+        "iz": 1,
+        "bounds": {
+          "minX": -250,
+          "minZ": -500,
+          "maxX": 0,
+          "maxZ": -250
+        },
+        "center": {
+          "x": -125,
+          "y": 96.0615076568423,
+          "z": -375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/2-1/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_3_1",
+        "ix": 3,
+        "iz": 1,
+        "bounds": {
+          "minX": 0,
+          "minZ": -500,
+          "maxX": 250,
+          "maxZ": -250
+        },
+        "center": {
+          "x": 125,
+          "y": 82.11149344540206,
+          "z": -375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/3-1/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_4_1",
+        "ix": 4,
+        "iz": 1,
+        "bounds": {
+          "minX": 250,
+          "minZ": -500,
+          "maxX": 500,
+          "maxZ": -250
+        },
+        "center": {
+          "x": 375,
+          "y": 87.87439637043067,
+          "z": -375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/4-1/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_5_1",
+        "ix": 5,
+        "iz": 1,
+        "bounds": {
+          "minX": 500,
+          "minZ": -500,
+          "maxX": 750,
+          "maxZ": -250
+        },
+        "center": {
+          "x": 625,
+          "y": 104.49233394713092,
+          "z": -375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/5-1/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_0_2",
+        "ix": 0,
+        "iz": 2,
+        "bounds": {
+          "minX": -750,
+          "minZ": -250,
+          "maxX": -500,
+          "maxZ": 0
+        },
+        "center": {
+          "x": -625,
+          "y": 75.51112278481207,
+          "z": -125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/0-2/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_1_2",
+        "ix": 1,
+        "iz": 2,
+        "bounds": {
+          "minX": -500,
+          "minZ": -250,
+          "maxX": -250,
+          "maxZ": 0
+        },
+        "center": {
+          "x": -375,
+          "y": 46.328857095142794,
+          "z": -125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/1-2/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_2_2",
+        "ix": 2,
+        "iz": 2,
+        "bounds": {
+          "minX": -250,
+          "minZ": -250,
+          "maxX": 0,
+          "maxZ": 0
+        },
+        "center": {
+          "x": -125,
+          "y": 65.59818635359234,
+          "z": -125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/2-2/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_3_2",
+        "ix": 3,
+        "iz": 2,
+        "bounds": {
+          "minX": 0,
+          "minZ": -250,
+          "maxX": 250,
+          "maxZ": 0
+        },
+        "center": {
+          "x": 125,
+          "y": 101.90118448793183,
+          "z": -125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/3-2/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_4_2",
+        "ix": 4,
+        "iz": 2,
+        "bounds": {
+          "minX": 250,
+          "minZ": -250,
+          "maxX": 500,
+          "maxZ": 0
+        },
+        "center": {
+          "x": 375,
+          "y": 82.72893712579851,
+          "z": -125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/4-2/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_5_2",
+        "ix": 5,
+        "iz": 2,
+        "bounds": {
+          "minX": 500,
+          "minZ": -250,
+          "maxX": 750,
+          "maxZ": 0
+        },
+        "center": {
+          "x": 625,
+          "y": 38.746227900149556,
+          "z": -125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/5-2/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_0_3",
+        "ix": 0,
+        "iz": 3,
+        "bounds": {
+          "minX": -750,
+          "minZ": 0,
+          "maxX": -500,
+          "maxZ": 250
+        },
+        "center": {
+          "x": -625,
+          "y": 60.08886880039815,
+          "z": 125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/0-3/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_1_3",
+        "ix": 1,
+        "iz": 3,
+        "bounds": {
+          "minX": -500,
+          "minZ": 0,
+          "maxX": -250,
+          "maxZ": 250
+        },
+        "center": {
+          "x": -375,
+          "y": 26.36040201673878,
+          "z": 125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/1-3/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_2_3",
+        "ix": 2,
+        "iz": 3,
+        "bounds": {
+          "minX": -250,
+          "minZ": 0,
+          "maxX": 0,
+          "maxZ": 250
+        },
+        "center": {
+          "x": -125,
+          "y": 20.377655121382826,
+          "z": 125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/2-3/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_3_3",
+        "ix": 3,
+        "iz": 3,
+        "bounds": {
+          "minX": 0,
+          "minZ": 0,
+          "maxX": 250,
+          "maxZ": 250
+        },
+        "center": {
+          "x": 125,
+          "y": 44.63990913647642,
+          "z": 125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/3-3/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_4_3",
+        "ix": 4,
+        "iz": 3,
+        "bounds": {
+          "minX": 250,
+          "minZ": 0,
+          "maxX": 500,
+          "maxZ": 250
+        },
+        "center": {
+          "x": 375,
+          "y": 129.61748198966302,
+          "z": 125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/4-3/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_5_3",
+        "ix": 5,
+        "iz": 3,
+        "bounds": {
+          "minX": 500,
+          "minZ": 0,
+          "maxX": 750,
+          "maxZ": 250
+        },
+        "center": {
+          "x": 625,
+          "y": 60.00672761183519,
+          "z": 125
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/5-3/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_0_4",
+        "ix": 0,
+        "iz": 4,
+        "bounds": {
+          "minX": -750,
+          "minZ": 250,
+          "maxX": -500,
+          "maxZ": 500
+        },
+        "center": {
+          "x": -625,
+          "y": 27.208112048804335,
+          "z": 375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/0-4/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_1_4",
+        "ix": 1,
+        "iz": 4,
+        "bounds": {
+          "minX": -500,
+          "minZ": 250,
+          "maxX": -250,
+          "maxZ": 500
+        },
+        "center": {
+          "x": -375,
+          "y": 15.694846456899672,
+          "z": 375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/1-4/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_2_4",
+        "ix": 2,
+        "iz": 4,
+        "bounds": {
+          "minX": -250,
+          "minZ": 250,
+          "maxX": 0,
+          "maxZ": 500
+        },
+        "center": {
+          "x": -125,
+          "y": 50.23612234555758,
+          "z": 375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/2-4/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_3_4",
+        "ix": 3,
+        "iz": 4,
+        "bounds": {
+          "minX": 0,
+          "minZ": 250,
+          "maxX": 250,
+          "maxZ": 500
+        },
+        "center": {
+          "x": 125,
+          "y": 63.875745727268196,
+          "z": 375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/3-4/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_4_4",
+        "ix": 4,
+        "iz": 4,
+        "bounds": {
+          "minX": 250,
+          "minZ": 250,
+          "maxX": 500,
+          "maxZ": 500
+        },
+        "center": {
+          "x": 375,
+          "y": 109.03728740895288,
+          "z": 375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/4-4/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_5_4",
+        "ix": 5,
+        "iz": 4,
+        "bounds": {
+          "minX": 500,
+          "minZ": 250,
+          "maxX": 750,
+          "maxZ": 500
+        },
+        "center": {
+          "x": 625,
+          "y": 94.01315386348928,
+          "z": 375
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/5-4/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_0_5",
+        "ix": 0,
+        "iz": 5,
+        "bounds": {
+          "minX": -750,
+          "minZ": 500,
+          "maxX": -500,
+          "maxZ": 750
+        },
+        "center": {
+          "x": -625,
+          "y": 72.61051524709667,
+          "z": 625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/0-5/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_1_5",
+        "ix": 1,
+        "iz": 5,
+        "bounds": {
+          "minX": -500,
+          "minZ": 500,
+          "maxX": -250,
+          "maxZ": 750
+        },
+        "center": {
+          "x": -375,
+          "y": 114.46627464892596,
+          "z": 625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/1-5/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_2_5",
+        "ix": 2,
+        "iz": 5,
+        "bounds": {
+          "minX": -250,
+          "minZ": 500,
+          "maxX": 0,
+          "maxZ": 750
+        },
+        "center": {
+          "x": -125,
+          "y": 85.35999772653072,
+          "z": 625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/2-5/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_3_5",
+        "ix": 3,
+        "iz": 5,
+        "bounds": {
+          "minX": 0,
+          "minZ": 500,
+          "maxX": 250,
+          "maxZ": 750
+        },
+        "center": {
+          "x": 125,
+          "y": 74.96061941711154,
+          "z": 625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/3-5/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_4_5",
+        "ix": 4,
+        "iz": 5,
+        "bounds": {
+          "minX": 250,
+          "minZ": 500,
+          "maxX": 500,
+          "maxZ": 750
+        },
+        "center": {
+          "x": 375,
+          "y": 139.64035903840374,
+          "z": 625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/4-5/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      },
+      {
+        "id": "cell_5_5",
+        "ix": 5,
+        "iz": 5,
+        "bounds": {
+          "minX": 500,
+          "minZ": 500,
+          "maxX": 750,
+          "maxZ": 750
+        },
+        "center": {
+          "x": 625,
+          "y": 147.18888727312256,
+          "z": 625
+        },
+        "radius": 176.7766952966369,
+        "sourceUrl": "cells/5-5/terrain.cell.bin",
+        "lods": [
+          {
+            "level": 0,
+            "vertexCount": 4485,
+            "indexCount": 26112
+          },
+          {
+            "level": 1,
+            "vertexCount": 1221,
+            "indexCount": 6912
+          },
+          {
+            "level": 2,
+            "vertexCount": 357,
+            "indexCount": 1920
+          },
+          {
+            "level": 3,
+            "vertexCount": 117,
+            "indexCount": 576
+          },
+          {
+            "level": 4,
+            "vertexCount": 45,
+            "indexCount": 192
+          },
+          {
+            "level": 5,
+            "vertexCount": 21,
+            "indexCount": 72
+          },
+          {
+            "level": 6,
+            "vertexCount": 12,
+            "indexCount": 30
+          }
+        ]
+      }
+    ]
+  },
+  "roads": [
+    {
+      "id": "road:asphalt:0",
+      "url": "meshes/roads-asphalt-0.mesh.bin",
+      "vertexCount": 2208,
+      "indexCount": 3312
+    }
+  ],
+  "roadSpawns": [
+    {
+      "position": {
+        "x": -300.88357883501254,
+        "y": 45.35,
+        "z": -173.90113748920544
+      },
+      "headingRadians": -0.41961906216026995
+    },
+    {
+      "position": {
+        "x": -320.8422750083306,
+        "y": 45.35,
+        "z": -129.1623053425289
+      },
+      "headingRadians": -0.322509171500273
+    },
+    {
+      "position": {
+        "x": -336.0329381591472,
+        "y": 45.35005063340331,
+        "z": -68.71910314374992
+      },
+      "headingRadians": -0.0339472516563158
+    },
+    {
+      "position": {
+        "x": -325.3085900210408,
+        "y": 45.38554099665733,
+        "z": 2.353472192156744
+      },
+      "headingRadians": 0.38386071405245903
+    },
+    {
+      "position": {
+        "x": -239.6625596303625,
+        "y": 23.01013122343447,
+        "z": 169.88269864651687
+      },
+      "headingRadians": 0.9327027597773101
+    },
+    {
+      "position": {
+        "x": -153.97293653719146,
+        "y": 22.85137900500597,
+        "z": 129.41338221875998
+      },
+      "headingRadians": 1.4995542803930053
+    },
+    {
+      "position": {
+        "x": 5.273939180980676,
+        "y": 25.444511019576137,
+        "z": 187.36205782098648
+      },
+      "headingRadians": 0.917105711392626
+    },
+    {
+      "position": {
+        "x": 29.289334413277004,
+        "y": 30.57608119527689,
+        "z": 269.80039511034084
+      },
+      "headingRadians": 0.2834685402365524
+    }
+  ],
+  "roadMarkings": [],
+  "tunnels": [],
+  "props": [],
+  "water": {
+    "presetId": "alpine-lake",
+    "config": {
+      "kind": "lake",
+      "level": -0.05,
+      "shallowColor": "#8fd8cd",
+      "deepColor": "#14314a",
+      "scatteringColor": "#d7fff8",
+      "foamColor": "#f7fbff",
+      "skyColor": "#b7dbf3",
+      "absorptionStrength": 0.065,
+      "scatteringStrength": 0.11,
+      "refractionStrength": 0.012,
+      "fresnelStrength": 1.08,
+      "roughness": 0.018,
+      "normalStrength": 0.22,
+      "normalScaleA": 0.007,
+      "normalScaleB": 0.019,
+      "normalScaleC": 0.046,
+      "normalSpeedA": [
+        0.002,
+        0.001
+      ],
+      "normalSpeedB": [
+        -0.004,
+        0.005
+      ],
+      "normalSpeedC": [
+        0.007,
+        -0.006
+      ],
+      "normalRotationA": 0.12,
+      "normalRotationB": 0.84,
+      "normalRotationC": 2.08,
+      "normalStrengthA": 0.2,
+      "normalStrengthB": 0.08,
+      "normalStrengthC": 0.03,
+      "warpScale": 0.001,
+      "warpSpeed": [
+        0.001,
+        -0.001
+      ],
+      "warpStrength": 0.45,
+      "fftDisplacementStrength": 0.16,
+      "fftNormalStrength": 0.18,
+      "crestFoamStrength": 0.02,
+      "crestFoamThreshold": 0.84,
+      "crestFoamSoftness": 0.08,
+      "crestFoamSpeed": 0.22,
+      "foamThicknessStrength": 0.06,
+      "foamShadowStrength": 0.03,
+      "foamHighlightStrength": 0.06,
+      "causticsStrength": 0.32,
+      "causticsScale": 0.18,
+      "causticsSpeed": [
+        0.01,
+        -0.008
+      ],
+      "refractionDepthStrength": 0.36,
+      "shallowLightBoost": 0.42,
+      "foamScale": 0.048,
+      "foamSpeed": [
+        0.005,
+        -0.006
+      ],
+      "foamDepthStart": 0.04,
+      "foamDepthEnd": 0.22,
+      "foamIntensity": 0.01,
+      "foamErosion": 0.94,
+      "maxRefractionPixels": 8,
+      "edgeFadePixels": 18,
+      "debugMode": "final",
+      "quality": "ultra"
+    }
+  },
+  "startMarker": {
+    "position": {
+      "x": -303.6915999245116,
+      "y": 45.00013240908169,
+      "z": -167.9646804830266
+    },
+    "headingRadians": 0
+  }
+}
